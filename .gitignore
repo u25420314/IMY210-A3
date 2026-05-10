@@ -1,0 +1,10 @@
+#Christian Khaled u25420314
+node_modules
+
+.nuxt
+.output
+
+.env
+
+backend/.tmp
+backend/build
