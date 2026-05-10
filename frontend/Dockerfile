@@ -1,4 +1,4 @@
-# Christian Khaled, u25420134
+# Christian Khaled u25420134
 FROM node:20-alpine
 
 WORKDIR /app
